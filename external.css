@@ -1,0 +1,21 @@
+p{
+    color: burlywood;
+    background-color: blue;
+}
+div{
+color: aquamarine;
+background-color: burlywood;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+span{
+     color: rgb(23, 0, 0);/* color by rgb  */
+    background-color:rgb(0, 56, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h2{
+     color: #ff4532;/* color by hex value  */
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 44px;
+}
